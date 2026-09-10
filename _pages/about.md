@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 # About Me
 
-I am a Master's student currently working on generative artificial intelligence and computer vision.
+I am currently an M.S. student at Sichuan University. I received my B.S. degree in Artificial Intelligence from Sichuan University in 2025.
 
-My research interests include **Generative AI**, **Diffusion Models**, **Text-to-Image Generation**, and **AI Safety**. I am particularly interested in safe and controllable generation, including concept erasure and representation editing for diffusion models.
+My research interests include **Generative AI**, **Diffusion Models**, **Text-to-Image Generation**, and **AI Safety**, with a particular focus on safe and controllable generative models.
 
 # 🔥 News
 
@@ -35,3 +33,8 @@ My research works will be updated here.
 - Concept Erasure
 - AI Safety
 - Computer Vision
+
+# 📖 Education
+
+- **M.S. in Electronic Information**, [Sichuan University](https://www.scu.edu.cn/), 2025 - Present
+- **B.S. in Artificial Intelligence**, [Sichuan University](https://www.scu.edu.cn/), 2021 - 2025
